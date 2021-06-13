@@ -43,8 +43,7 @@ Unit Tests:-
 
 Additional Information:
 	1. Data can be added in the give data.txt file 
-	2. When application is running, you can edit data.txt from Client App's bin folder and re-run the another calculation
-	3. Validation could be added at core level (not sure if it was expected)
+	2. When application is running, you can edit data.txt from Client App's bin folder and re-run another calculation
 ---------------------------------------------------------------------------------------------------------------------------
 
 
